@@ -95,6 +95,9 @@ The Prometheus instance should be accessible at http://localhost:9090, and it sh
   - Add any other files you may have created to the `solution` directory.
   - Commit and push the changes to your repository on GitHub.
 
+## Part IV
+  - Create kubernetes Deployment YAML for csvserver.
+  - 
 ## Possible errors / caveats on different host OS
   1. SELinux enabled GNU/Linux machine: `open /****/****: permission denied`
   ```
@@ -106,7 +109,7 @@ The Prometheus instance should be accessible at http://localhost:9090, and it sh
 Once you have pushed your progress,
 
 - Add `deeptek2012` as collaborators to the repository.
-- Reply to the email with link to your repository / send an email to `anju [at] infracloud [dot] io`.
+- Reply to the email with link to your repository.
 
 ---
 
